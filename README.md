@@ -2,7 +2,7 @@
  Text-Based 2048 Game in C!
  ## Starting the Game:
  - Download the repository to your computer
- - Find the folder through your terminal \n
+ - Find the folder through your terminal <br />
    (*You can use the* `cd "folder location"` *command to get there in terminal*)
  - Type `make` into the terminal to run the game
    
@@ -13,9 +13,8 @@
  - Have fun!
 
  ## Errors:
- - If you are experiencing an error on a Windows or Linux device, try changing the following line in main.c
+ - If you are experiencing an error on a Windows or Linux device, try changing the following line in main.c <br />
    `#ifdef __APPLE__`
-
  - APPLE is the platform macro for MacOS
  - Change to `_WIN32` or `_WIN64` based on your Windows system
  - Change to `__linux__` for a Linux device
