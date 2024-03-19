@@ -2,7 +2,7 @@
  Text-Based 2048 Game in C!
  ## Starting the Game:
  - Download the repository to your computer
- - Find the folder through your terminal
+ - Find the folder through your terminal \n
    (*You can use the* `cd "folder location"` *command to get there in terminal*)
  - Type `make` into the terminal to run the game
    
