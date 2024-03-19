@@ -13,8 +13,8 @@
  - Have fun!
 
  ## Errors:
- - If you are experiencing an error on a Windows or Linux device, try changing the following line in main.c <br />
-   `#ifdef __APPLE__`
+ - If you are experiencing an error on a Windows or Linux device, try changing the following line in main.c: <br />
+   `#ifdef __APPLE__` <br />
  - APPLE is the platform macro for MacOS
  - Change to `_WIN32` or `_WIN64` based on your Windows system
  - Change to `__linux__` for a Linux device
