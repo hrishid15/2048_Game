@@ -3,7 +3,7 @@
  ## Starting the Game:
  - Download the repository to your computer
  - Find the folder through your terminal
-   *You can use the* `cd "folder location"` *command to get there in terminal*
+   (*You can use the* `cd "folder location"` *command to get there in terminal*)
  - Type `make` into the terminal to run the game
    
  ## How to Play:
